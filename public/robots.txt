@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-powered-student-learning-assista-red.vercel.app/sitemap.xml
